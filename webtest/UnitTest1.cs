@@ -12,7 +12,7 @@ namespace webtest
             int i = 1;
             bool result = false;
             if (i == 1) result = true;
-            Assert.IsTrue(result, "Value should be equal to 1")
+            Assert.IsTrue(result, "Value should be equal to 1");
         }
     }
 }
